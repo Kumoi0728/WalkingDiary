@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Walking Diary</string>
+    <string name="toast_requires_permission_format">Requires Permission %s</string>
+    <string name="start_walking">Start Walking</string>
+    <string name="check_memories">Check Memories</string>
+    <string name="start">Start</string>
+    <string name="add_memories">Add Memories</string>
+</resources>

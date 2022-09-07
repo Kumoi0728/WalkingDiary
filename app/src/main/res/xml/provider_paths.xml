@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- 代表context.getFilesDir() = /data/user/0/kumoi.walkingdiary/files
+        在path中用.代替所有目录 -->
+        <files-path name="filesDir" path="."/>
+
+        <!--
+        <external-path/> 代表Environment.getExternalStorageDirectory()
+        <external-files-path/>代表context.getExternalFilesDirs()
+        <external-files-path name="my_images" path="." />
+        <external-cache-path/>代表getExternalCacheDirs()
+
+        -->
+</paths>
